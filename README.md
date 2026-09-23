@@ -88,7 +88,7 @@ A multi-step AI research pipeline that turns any topic into a **sourced research
 - Automatic rate-limit handling with retry countdown
 - Interactive **Streamlit** app with live step progress and report downloads
 
-🔗 **[View Project](https://github.com/kananbehl123/research-ai)**
+🔗 **[View Project](https://github.com/kananbehl123/Multi-agent-research-assistant)**
 
 ---
 
