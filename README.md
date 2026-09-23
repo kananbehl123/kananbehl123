@@ -38,6 +38,7 @@ I enjoy working on problems involving **data, intelligent systems, information r
 
 ### GenAI & NLP
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=flat)
 ![LLM](https://img.shields.io/badge/LLMs-Generative%20AI-orange?style=flat)
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=flat)
@@ -71,6 +72,23 @@ An end-to-end **Retrieval-Augmented Generation** system for document-based quest
 - Latency and retrieval performance analysis
 
 🔗 **[View Project](https://github.com/kananbehl123/RAG-QA-ENGINE)**
+
+---
+
+### 🔎 ResearchAI – Multi-Agent Research Assistant
+**Python | LangChain | Gemini | Tavily | Streamlit**
+
+A multi-step AI research pipeline that turns any topic into a **sourced research report** and critiques its own output.
+
+- Web search using the **Tavily API**
+- Parallel scraping of the top 3 sources for full-text context
+- Grounded report generation with **Google Gemini**
+- AI critic that scores each report **out of 10** against the research
+- Cut LLM calls per run from **~8 to 2** by replacing agent steps with plain code
+- Automatic rate-limit handling with retry countdown
+- Interactive **Streamlit** app with live step progress and report downloads
+
+🔗 **[View Project](https://github.com/kananbehl123/research-ai)**
 
 ---
 
@@ -139,3 +157,4 @@ Embeddings & Vector Databases
 LLM Evaluation
        ↓
 Production ML / AI Systems
+```
